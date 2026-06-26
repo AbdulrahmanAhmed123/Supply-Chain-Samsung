@@ -1,11 +1,17 @@
-# 📊 SAMSUNG Supply Chain & Logistics Dashboard (Power BI) ![SAMSUNG Banner](https://img.shields.io/badge/SAMSUNG-Supply_Chain-034EA2?style=for-the badge&logo=samsung&logoColor=white)
+# 📊 SAMSUNG Supply Chain & Logistics Dashboard (Power BI)
+
+![SAMSUNG Banner](https://img.shields.io/badge/SAMSUNG-Supply_Chain-034EA2?style=for-the-badge&logo=samsung&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
 
 المشروع ده عبارة عن **End-to-End BI Project** معمول مخصوص عشان يحلل ويعمل Optimization لعمليات الـ Supply Chain، الـ Procurement، الـ Inventory، والـ Shipments في شركة **SAMSUNG**. 
 
 بدل الـ Star Schema التقليدي، استخدمنا هنا **Galaxy Schema (Fact Constellation)** قوي جداً بيربط **5 جداول حقائق (Fact Tables)** ببعض من خلال **Shared Master Dimensions** عشان نطلع بـ Actionable Insights تخدم الـ Decision Makers.
+
+---
+
+## 🖥️ Dashboard Interface (Home Page)
+
+![Dashboard Home Page](Screenshot%202026-06-26%20185332.png)
 
 ---
 
@@ -62,4 +68,4 @@
 * **UI/UX Best Practices:** تطبيق الـ Custom Card Visuals الجديدة، وحطينا معاه الـ Context Icons، وعملنا نظام الـ Tab-Navigation الشيك عشان ننقل بين الصفحات كأنك جوه ويبسايت.
 
 ---
-💡 *Abdulrahman Ahmed - Data Analyst*
+💡 *Developed by Abdulrahman Ahmed - Data Analyst*
