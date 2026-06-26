@@ -60,4 +60,4 @@
 * **UI/UX Best Practices:** تطبيق الـ Custom Card Visuals الجديدة، وحطينا معاه الـ Context Icons، وعملنا نظام الـ Tab-Navigation الشيك عشان ننقل بين الصفحات كأنك جوه ويبسايت.
 
 ---
-💡 *Developed by Abdulrahman Ahmed - Data Analyst*
+💡 *Abdulrahman Ahmed - Data Analyst*
