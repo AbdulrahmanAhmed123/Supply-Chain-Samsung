@@ -11,6 +11,7 @@
 
 ## 🖥️ Dashboard Interface (Home Page)
 
+<img width="1800" height="790" alt="Screenshot 2026-06-26 185332" src="https://github.com/user-attachments/assets/09aa25a7-448b-4bf8-878e-646e0b8ca432" />
 
 ---
 
