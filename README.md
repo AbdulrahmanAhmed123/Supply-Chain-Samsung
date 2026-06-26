@@ -1,4 +1,6 @@
-# 📊 SAMSUNG Supply Chain & Logistics Dashboard (Power BI)
+# 📊 SAMSUNG Supply Chain & Logistics Dashboard (Power BI) ![SAMSUNG Banner](https://img.shields.io/badge/SAMSUNG-Supply_Chain-034EA2?style=for-the badge&logo=samsung&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 
 المشروع ده عبارة عن **End-to-End BI Project** معمول مخصوص عشان يحلل ويعمل Optimization لعمليات الـ Supply Chain، الـ Procurement، الـ Inventory، والـ Shipments في شركة **SAMSUNG**. 
@@ -61,6 +63,3 @@
 
 ---
 💡 *Abdulrahman Ahmed - Data Analyst*
-![SAMSUNG Banner](https://img.shields.io/badge/SAMSUNG-Supply_Chain-034EA2?style=for-the-badge&logo=samsung&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Data_Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-<img width="1800" height="790" alt="image" src="https://github.com/user-attachments/assets/708b62d1-a8ee-4c5f-a6ec-9e85877f11bd" />
