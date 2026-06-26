@@ -61,3 +61,5 @@
 
 ---
 💡 *Abdulrahman Ahmed - Data Analyst*
+![SAMSUNG Banner](https://img.shields.io/badge/SAMSUNG-Supply_Chain-034EA2?style=for-the-badge&logo=samsung&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analysis-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
